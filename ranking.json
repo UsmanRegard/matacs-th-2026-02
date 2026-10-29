@@ -1,0 +1,37 @@
+[
+  {
+    "proposal": "A",
+    "rank": 1,
+    "status": "ranked",
+    "score": 92.75,
+    "reason": "Strong qualifying experience, competitive price, 12-week delivery, long warranties, and a complete team, safety, and monitoring plan."
+  },
+  {
+    "proposal": "B",
+    "rank": null,
+    "status": "ineligible",
+    "score": null,
+    "reason": "The mandatory bidder-licence condition is not met; only a subcontractor to be confirmed later is described."
+  },
+  {
+    "proposal": "C",
+    "rank": 3,
+    "status": "ranked",
+    "score": 78.25,
+    "reason": "Strong experience and warranties, but a higher price, 14-week timeline, and only explicit lead and crew evidence among the team rubric items; embedded ranking instructions are ignored."
+  },
+  {
+    "proposal": "D",
+    "rank": null,
+    "status": "flagged",
+    "score": null,
+    "reason": "Completion timeline is missing, so timeline score and 16-week compliance cannot be assessed."
+  },
+  {
+    "proposal": "E",
+    "rank": 2,
+    "status": "ranked",
+    "score": 83.5,
+    "reason": "Good experience, a 13-week timeline, the strongest workmanship warranty, and a detailed team, safety, roof-assessment, and monitoring plan."
+  }
+]
